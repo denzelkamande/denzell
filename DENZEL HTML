@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DENZEL KAMANDE</title>
+<header>
+    <nav>
+        <h1>KAMANDE RESUME</h1>
+        <h2>Denzel kashy</h2>
+        <p>upcoming software developer</p>
+            </header>
+            <nav>
+            <ul>
+                <a href="https://www.google.com/">home</a>
+                <a href="https://mail.google.com/mail/u/0/#inbox">contacts</a>
+                <a href="/about.html">about</a>
+                <a href="">projects</a>
+                </nav>
+                <DIV>
+                <h1>about me</h1>
+                <p>Denzel is an upcoming software developer who is still under practise
+     in the good hands of the moringa freternity and wishes to be advanced 
+    in the advancing technlogy
+        i would like to be equiped with not only tech skills but be advanced in my soft skills</p>
+                </DIV>
+                <div>
+                <h1>Projects</h1>
+                <p>here are some of the projects that i have managed to do</p>
+                <ul>
+                 <a href=""></a>
+                    <li>project 1</li>
+                <a href="">relative link</a>
+                    <li>project 2</li>
+            </a>
+                    <li>project 3</li>
+                </ul>
+                </div>
+                <div>
+                    <h1>contact me</h1>
+                    <p>Email; denzel.kamande@student.moringaschool.com</p>
+                       <p>telephone number 0728109499</p>
+                    
+                       <footer>
+                       <P>2024 DENZEL KAMANDE</P>
+                       </footer>
+                </div>
+</head>
+<body>
+    
+</body>
+</html>
